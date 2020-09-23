@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/forstores/static/js/main.8e889790.chunk.js",
+    "main.js.map": "/forstores/static/js/main.8e889790.chunk.js.map",
+    "runtime-main.js": "/forstores/static/js/runtime-main.25279a2a.js",
+    "runtime-main.js.map": "/forstores/static/js/runtime-main.25279a2a.js.map",
+    "static/css/2.1edd36c8.chunk.css": "/forstores/static/css/2.1edd36c8.chunk.css",
+    "static/js/2.21c9d3b6.chunk.js": "/forstores/static/js/2.21c9d3b6.chunk.js",
+    "static/js/2.21c9d3b6.chunk.js.map": "/forstores/static/js/2.21c9d3b6.chunk.js.map",
+    "index.html": "/forstores/index.html",
+    "precache-manifest.953be12809e683be8fd1e084a1d8a452.js": "/forstores/precache-manifest.953be12809e683be8fd1e084a1d8a452.js",
+    "service-worker.js": "/forstores/service-worker.js",
+    "static/css/2.1edd36c8.chunk.css.map": "/forstores/static/css/2.1edd36c8.chunk.css.map",
+    "static/js/2.21c9d3b6.chunk.js.LICENSE.txt": "/forstores/static/js/2.21c9d3b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25279a2a.js",
+    "static/css/2.1edd36c8.chunk.css",
+    "static/js/2.21c9d3b6.chunk.js",
+    "static/js/main.8e889790.chunk.js"
+  ]
+}
