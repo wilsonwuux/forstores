@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "110a789852b780c46708e9d708bdfaa7",
+    "revision": "232193008d8376c49a4a28a01a870c50",
     "url": "/forstores/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/forstores/static/js/2.21c9d3b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5953fdb51e1ec909d5a",
-    "url": "/forstores/static/js/main.a1c06466.chunk.js"
+    "revision": "7cccaaccb059aa5693cb",
+    "url": "/forstores/static/js/main.3bb93782.chunk.js"
   },
   {
     "revision": "e85a4814fb52b9365f9c",

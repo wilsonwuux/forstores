@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/forstores/static/js/main.a1c06466.chunk.js",
-    "main.js.map": "/forstores/static/js/main.a1c06466.chunk.js.map",
+    "main.js": "/forstores/static/js/main.3bb93782.chunk.js",
+    "main.js.map": "/forstores/static/js/main.3bb93782.chunk.js.map",
     "runtime-main.js": "/forstores/static/js/runtime-main.25279a2a.js",
     "runtime-main.js.map": "/forstores/static/js/runtime-main.25279a2a.js.map",
     "static/css/2.1edd36c8.chunk.css": "/forstores/static/css/2.1edd36c8.chunk.css",
     "static/js/2.21c9d3b6.chunk.js": "/forstores/static/js/2.21c9d3b6.chunk.js",
     "static/js/2.21c9d3b6.chunk.js.map": "/forstores/static/js/2.21c9d3b6.chunk.js.map",
     "index.html": "/forstores/index.html",
-    "precache-manifest.68d6840a629a3ea5add0ff1b4bc99cc6.js": "/forstores/precache-manifest.68d6840a629a3ea5add0ff1b4bc99cc6.js",
+    "precache-manifest.e01315b74288580f6ff1411bdf804171.js": "/forstores/precache-manifest.e01315b74288580f6ff1411bdf804171.js",
     "service-worker.js": "/forstores/service-worker.js",
     "static/css/2.1edd36c8.chunk.css.map": "/forstores/static/css/2.1edd36c8.chunk.css.map",
     "static/js/2.21c9d3b6.chunk.js.LICENSE.txt": "/forstores/static/js/2.21c9d3b6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.25279a2a.js",
     "static/css/2.1edd36c8.chunk.css",
     "static/js/2.21c9d3b6.chunk.js",
-    "static/js/main.a1c06466.chunk.js"
+    "static/js/main.3bb93782.chunk.js"
   ]
 }
